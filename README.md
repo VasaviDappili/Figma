@@ -1,4 +1,4 @@
-![image](https://github.com/VasaviDappili/Figma/assets/144979755/bbd3c246-cb1b-4c17-b53d-b3d103d65aff)# Ex09 Event Registration Web Application
+# Ex09 Event Registration Web Application
 ## Date:1-05-2024
 
 ## AIM:
